@@ -1,0 +1,77 @@
+body {
+    background-color: tan
+} 
+
+
+li {
+    text-align: center;
+    width: 10em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#Cndy {
+    display: flex;
+    justify-content: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif 
+}
+
+#More {
+    display: flex;
+    justify-content: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#Hat {
+    display: flex;
+    justify-content: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#Cat {
+    display: flex;
+    justify-content: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+    font-size: 500%;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 50%;
+}
+
+p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.Bob {
+    max-height: 115px;
+    max-width: 115px;
+}
+
+.Hoi {
+    max-height: 115px;
+    max-width: 115px;
+}
+
+.Uil {
+    max-height: 115px;
+    max-width: 115px;
+}
+
+.Gig {
+    max-height: 115px;
+    max-width: 115px;
+}
